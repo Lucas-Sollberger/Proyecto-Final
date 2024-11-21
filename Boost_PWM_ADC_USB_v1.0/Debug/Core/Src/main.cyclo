@@ -1,0 +1,15 @@
+../Core/Src/main.c:110:7:bandaMuerta	4
+../Core/Src/main.c:129:6:set_period	2
+../Core/Src/main.c:152:5:main	4
+../Core/Src/main.c:236:6:SystemClock_Config	3
+../Core/Src/main.c:282:13:MX_ADC1_Init	10
+../Core/Src/main.c:397:13:MX_TIM4_Init	6
+../Core/Src/main.c:456:13:MX_TIM8_Init	7
+../Core/Src/main.c:531:13:MX_DMA_Init	2
+../Core/Src/main.c:568:13:MX_GPIO_Init	1
+../Core/Src/main.c:616:6:convert_Uint16_to_Uint8	2
+../Core/Src/main.c:636:6:DMA_Transfer	2
+../Core/Src/main.c:650:6:HAL_ADC_ConvCpltCallback	2
+../Core/Src/main.c:661:6:HAL_ADC_ConvHalfCpltCallback	2
+../Core/Src/main.c:676:6:HAL_TIM_PWM_PulseFinishedCallback	3
+../Core/Src/main.c:697:6:Error_Handler	1
